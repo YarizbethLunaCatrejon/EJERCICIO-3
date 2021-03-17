@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-compatible"content="IE=adge">
+<meta name="viewport" content="width=<device-width>, inital-scale=1.0">
+    <title>Document</title>
+    <style>
+        #primero {
+    color: red;
+    padding: 15px;
+    border: solid 10px blueviolet;
+    margin: 25px;
+    width: 500px;
+}
+
+#segundo{
+    color: red;
+    padding: 15px;
+    border: solid 10px blueviolet;
+    margin: 25px;
+    width: 200px;
+
+ }   
+
+ div {
+    color: blue;
+    border: solid 10px;
+
+}
+
+</style>
+</head>
+<body>
+<div>
+<p id="primero">Lorem ipsum dolcr sit amet.</p>
+<p id="segundo">Lorem ipsum dolcr sit amet.</p>
+
+</div>
+</body>
+</html>
